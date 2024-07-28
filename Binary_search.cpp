@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int n,key;
+    int sum=0;
     cin>>n;
     int *arr;
     arr= new int[n];
